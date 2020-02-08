@@ -1,13 +1,13 @@
 {
-  "name": "Rusty",
+  "name": "rusty-the-ztm-github-bot",
   "version": "1.0.0",
   "private": true,
   "description": "A ZTM Github Bot",
-  "author": "nrednav <nrednav@gmail.com>",
+  "author": "",
   "license": "ISC",
-  "repository": "https://github.com/zero-to-mastery/Rusty.git",
-  "homepage": "https://github.com/zero-to-mastery/Rusty",
-  "bugs": "https://github.com/zero-to-mastery/Rusty/issues",
+  "repository": "https://github.com/Bartholomewbd/Rusty-the-ZTM-Github-Bot.git",
+  "homepage": "https://github.com/Bartholomewbd/Rusty-the-ZTM-Github-Bot",
+  "bugs": "https://github.com/Bartholomewbd/Rusty-the-ZTM-Github-Bot/issues",
   "keywords": [
     "probot",
     "github",
