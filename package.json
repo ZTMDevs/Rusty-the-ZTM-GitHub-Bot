@@ -5,9 +5,9 @@
   "description": "A ZTM Github Bot",
   "author": "",
   "license": "ISC",
-  "repository": "https://github.com/Bartholomewbd/Rusty-the-ZTM-Github-Bot.git",
-  "homepage": "https://github.com/Bartholomewbd/Rusty-the-ZTM-Github-Bot",
-  "bugs": "https://github.com/Bartholomewbd/Rusty-the-ZTM-Github-Bot/issues",
+  "repository": "https://github.com/ZTMDevs/Rusty-the-ZTM-GitHub-Bot.git",
+  "homepage": "https://github.com/ZTMDevs/Rusty-the-ZTM-GitHub-Bot",
+  "bugs": "https://github.com/ZTMDevs/Rusty-the-ZTM-GitHub-Bot/issues",
   "keywords": [
     "probot",
     "github",
